@@ -1,0 +1,8 @@
+1. Import file App_ManajemenProduk ke netbeans
+2. Pada bagian library, import jar nya yg terdapat pada folder library
+  - Jangan langsung import folder, tapi klik jar yang ada di dalamnya (bisa langsung di klik semua sekaligus jadi ga perlu satu satu)
+  - jangan lupa import file jar mysql connector yang ada di dalam folder library/mysql
+3. Import file sql ke MySQL
+   - file sql yang terdapat _test sudah terdapat data dummy, untuk percobaan
+   - untuk yang tidak ada _test nya, data yang di isi hanya data produk saja.
+4. Untuk mengecek file pdf laporan filenya terdapat di dalam project netbeans App_ManajemenProduk pada folder target.
