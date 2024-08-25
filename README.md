@@ -17,32 +17,33 @@ The **Management Product** is a Java-based desktop application developed in NetB
 - **MySQL** (for database)
 - **JDBC** (Java Database Connectivity) for database communication
 
-<<<<<<< HEAD
 ## Installation
 
 To run this project locally, follow these steps:
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/yanarkhan/management-product.git
    ```
 
 2. **Set up the MySQL database**:
+
    - Create a new MySQL database.
    - Use the `schema.sql` file located in the `resources/db/` directory to create the necessary tables.
 
 3. **Configure the database connection**:
+
    - Update the database connection details in the `ProductDAO.java` file with your MySQL credentials.
 
 4. **Open the project in NetBeans**:
+
    - Open NetBeans IDE.
    - Go to `File > Open Project` and select the `management-product` folder.
 
 5. **Run the project**:
    - In NetBeans, right-click on the project and select `Run`.
 
-=======
->>>>>>> b7850b6e0c588ad049a92f6d4f0b4f43db9705c4
 ## Usage
 
 - **Add Product**: Use the form to enter product details and save them to the database.
@@ -62,4 +63,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 =======
 This project is licensed under the [MIT License](LICENSE).
 based on the specific details and features of your project.
->>>>>>> b7850b6e0c588ad049a92f6d4f0b4f43db9705c4
+
+> > > > > > > b7850b6e0c588ad049a92f6d4f0b4f43db9705c4
