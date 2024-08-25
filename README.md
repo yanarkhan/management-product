@@ -11,27 +11,6 @@ The **Management Product** project is designed to help manage and streamline pro
 - **Reporting:** Generate reports on product sales, inventory status, and more.
 - **User Authentication:** Secure access with user login and permissions.
 
-## Installation
-
-To get started with the **Management Product** project, follow these steps:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yanarkhan/management-product.git
-   ```
-2. **Navigate to the project directory:**
-   ```bash
-   cd management-product
-   ```
-3. **Install dependencies:**
-   ```bash
-   npm install
-   ```
-4. **Start the application:**
-   ```bash
-   npm start
-   ```
-
 ## Usage
 
 1. **Access the application:** Open your web browser and navigate to `http://localhost:3000`.
