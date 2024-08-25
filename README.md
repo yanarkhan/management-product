@@ -17,6 +17,7 @@ The **Management Product** is a Java-based desktop application developed in NetB
 - **MySQL** (for database)
 - **JDBC** (Java Database Connectivity) for database communication
 
+<<<<<<< HEAD
 ## Installation
 
 To run this project locally, follow these steps:
@@ -40,6 +41,8 @@ To run this project locally, follow these steps:
 5. **Run the project**:
    - In NetBeans, right-click on the project and select `Run`.
 
+=======
+>>>>>>> b7850b6e0c588ad049a92f6d4f0b4f43db9705c4
 ## Usage
 
 - **Add Product**: Use the form to enter product details and save them to the database.
@@ -53,5 +56,10 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
+<<<<<<< HEAD
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
+=======
+This project is licensed under the [MIT License](LICENSE).
+based on the specific details and features of your project.
+>>>>>>> b7850b6e0c588ad049a92f6d4f0b4f43db9705c4
