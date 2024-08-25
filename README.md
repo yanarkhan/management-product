@@ -57,11 +57,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## License
 
-<<<<<<< HEAD
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-=======
-This project is licensed under the [MIT License](LICENSE).
-based on the specific details and features of your project.
-
-> > > > > > > b7850b6e0c588ad049a92f6d4f0b4f43db9705c4
